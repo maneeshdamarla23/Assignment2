@@ -1,3 +1,0 @@
-type Query {
-  address(username: String!): Address
-}
